@@ -19,7 +19,7 @@ export default function HomeScreen() {
     >
       <ThemedView style={styles.titleContainer}>
         <ThemedText type="title">
-          <Text>Bienvenido Pepe</Text>
+          <Text>Bienvenido Pepe TEST pantallazo</Text>
         </ThemedText>
         <HelloWave />
       </ThemedView>
